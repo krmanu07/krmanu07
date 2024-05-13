@@ -16,11 +16,8 @@
 
 **0. [UniChat - App](https://unichatapp.vercel.app)** - University App - Chat, Date, Create Rooms, Food and more.
 
-**1. [Diligent Creators](https://diligentcreator.tech/)** - Online Resumne/Portfolio Web Page creator (Without Coding). [Visit My Resume](https://diligentcreator.tech/u/admin) (Currently Unavailable)
 
-**2. [Classroom Bucket](https://enally.in/files-manager/)** - Description: BTech All Study Materials in One Bucket. (Currently Unavailable)
 
-**3. [Website](https://enally.in/)** - Enally.in
 
 
 <br>
@@ -28,16 +25,16 @@
 
 ![](https://komarev.com/ghpvc/?username=krmanu07&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
-### Coding Time SINCE APR 21 2024
+### Coding Time SINCE Jan 16 2023
 
 [![wakatime](https://wakatime.com/badge/user/018f009b-6304-446b-b3c0-f648fb1a8250.svg)](https://wakatime.com/@018f009b-6304-446b-b3c0-f648fb1a8250)
 
 
-### I am a web developer
+### I am an AI Engineer and Computer Vision Expert
 
-- 👨‍🏭 Passionately **Pursuing B-Tech, eager for impactful internships.** <br>
-- 🏫 Mastering **Full-Stack Development (MERN STACK), Digital Marketing, and SEO.** <br>
-- 🙌 **Collaborating on captivating web development projects** <br>
+- 👨‍🏭 Recently graduated with a B.Tech degree, seeking opportunities for impactful roles in the industry.** <br>
+- 🏫 Specializing in Machine Learning, Deep Learning, Computer Vision, Digital Marketing, and SEO.** <br>
+- 🙌 **Engaging in collaborative projects in the field of Computer Vision** <br>
 - 🥅 2024 Goals: **Secure a job placement in a reputable organization and focus on personal growth and continuous learning to enhance my skills and expertise.** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
