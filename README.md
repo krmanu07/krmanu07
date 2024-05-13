@@ -54,7 +54,7 @@
 
 | Social Media List <img width="26" src="https://github.com/krmanu07/krmanu07/blob/main/assets/like.png">|  Let's Tune Together|
 | --- | --- |
-| [![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar) [![Linkedin Badge](https://img.shields.io/badge/-krmanu07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krmanu07/)](https://www.linkedin.com/in/krmanu07/) [![Facebook Badge](https://img.shields.io/badge/-3catrat3-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/3catrat3)](https://www.facebook.com/3catrat3) ![](https://komarev.com/ghpvc/?username=krmanu07&color=blue) | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny)
+| [![Instagram Badge](https://img.shields.io/badge/-@3catrat3-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/3catrat3)](https://www.instagram.com/3catrat3) [![Linkedin Badge](https://img.shields.io/badge/-krmanu07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krmanu07/)](https://www.linkedin.com/in/krmanu07/) [![Facebook Badge](https://img.shields.io/badge/-3catrat3-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/3catrat3)](https://www.facebook.com/3catrat3) ![](https://komarev.com/ghpvc/?username=krmanu07&color=blue) | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny)
 
 
 
