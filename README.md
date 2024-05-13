@@ -131,7 +131,7 @@
 
 <p style="color: golden;" align="right" >Last Update on: 8 Jan 2024 </p>
 
-<a href="https://www.linkedin.com/in/krmanu07/">
+<a href="www.linkedin.com/in/krmanu07/">
 
 ![](https://github.com/krmanu07/krmanu07/blob/main/assets/footer3.png)
 
